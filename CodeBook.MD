@@ -1,6 +1,7 @@
 Inputs
     
-    zip file containing Dataset (assumption: the zip file is named "getdata_projectfiles_UCI HAR Dataset" which           contains all the Train and Test data in the respective directories
+    zip file containing Dataset 
+(assumption: the zip file is named "getdata_projectfiles_UCI HAR Dataset" which contains all the Train and Test data in the respective directories
 
 Variables
 
