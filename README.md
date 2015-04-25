@@ -8,12 +8,12 @@ The specific requirements were as follows:
 1. Download and extract smartphone data from the following location: (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 2. Perform the following tasks:
-    a. create one R script called run_analysis.R that does the following. 
-    b. Merges the training and the test sets to create one data set.
-    c. Extracts only the measurements on the mean and standard deviation for each measurement. 
-    d. Uses descriptive activity names to name the activities in the data set
-    e. Appropriately labels the data set with descriptive variable names. 
-    f. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for            each activity and each subject.
+    <ul> create one R script called run_analysis.R that does the following. </ul>
+    <ul> Merges the training and the test sets to create one data set. </ul>
+    <ul> Extracts only the measurements on the mean and standard deviation for each measurement. </ul>
+    <ul> Uses descriptive activity names to name the activities in the data set </ul>
+    <ul> Appropriately labels the data set with descriptive variable names. </ul>
+    <ul> From the data set in step 4, creates a second, independent tidy data set with the average of each variable for            each activity and each subject. </ul>
 
 A script was created to perform the tasks (run_analysis.R).  
 
