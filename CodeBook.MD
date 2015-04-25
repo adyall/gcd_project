@@ -21,6 +21,16 @@ Variables
     These names did not comply to the standard naming convention and had to be validated.  
     In the process some characters were truncated.
     
+            "LAYING" 1 "tBodyAcc.mean...X" 0.22159824394
+            "LAYING" 1 "tBodyAcc.mean...Y" -0.0405139534294
+            "LAYING" 1 "tBodyAcc.mean...Z" -0.11320355358
+            "LAYING" 1 "tBodyAcc.std...X" -0.9280564692
+            "LAYING" 1 "tBodyAcc.std...Y" -0.83682740562
+            "LAYING" 1 "tBodyAcc.std...Z" -0.826061401628
+            "LAYING" 1 "tBodyAcc.mad...X" -0.9321111728
+            "LAYING" 1 "tBodyAcc.mad...Y" -0.84091058864
+            "LAYING" 1 "tBodyAcc.mad...Z" -0.82176998216
+    
     merged_data: single merged dataset with the two datasets
     melted: the melt function was used to sumarize the data by the (2) variables "activity" and "subject"
 
